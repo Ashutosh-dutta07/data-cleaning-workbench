@@ -1,0 +1,13 @@
+Customer_ID,Name,City,Age,Income,Department,Rating,Status,Unused_Column
+101, Rahul ,Delhi,24.0,45000.0,Sales,4.2, Active ,X
+102,Priya,Mumbai,29.0,62000.0,HR,4.5,Active,X
+103,Amit ,Delhi,31.0,55000.0,Sales,,active,X
+103,Amit ,Delhi,31.0,55000.0,Sales,4.1,active,X
+104,NEHA,Bangalore,,48000.0,IT,3.9,Inactive,X
+105,Ravi,,27.0,,HR,4.4,Active,X
+106,  Suman,Delhi,26.0,51000.0,Sales,4.0,,X
+107,Arjun,Mumbai,120.0,500000.0,IT,5.0,Active,X
+108,Priya,Mumbai,29.0,62000.0,HR,4.5,Active,X
+109,Karan,Delhi,33.0,70000.0,Sales,,Inactive,X
+110,Neha,Bangalore,28.0,49000.0,IT,4.1,Active,X
+111,Rohit,Delhi,,58000.0,Sales,4.3,Active,X
